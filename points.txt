@@ -1,2 +1,2 @@
-This information is contained in poins.txt in keprins-file-storage
-(This is the second line)
+761124349809524746::100:0:0:0:0:0:0
+535610553347997716::50:0:0:0:0:0:0
