@@ -18,3 +18,6 @@ Current Balance: 6722
 
 07/02/2022 19:30:00  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Correct Trivia Question
+
+07/02/2022 19:31:52  AzureNinja#0465  computer-science  Computer Science Extension Year 9
+Tried to say gn; too early
