@@ -31,3 +31,6 @@ Daily: Reward=10, Streak=1
 
 Give 10 points to HeroPrinceK
 Current Balance: 3311
+
+
+Update daily for HeroPrinceK#8164
