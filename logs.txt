@@ -47,3 +47,6 @@ Daily: Reward=10, Streak=1
 
 Give 10 points to Crypted
 Current Balance: 180
+
+
+Update daily for Crypted#2534
