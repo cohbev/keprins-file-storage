@@ -12,3 +12,6 @@ Send Trivia Question: How would one say goodbye in Spanish?
 
 Give 25 points to Cohen
 Current Balance: 6722
+
+
++1 trivia point to Cohen
