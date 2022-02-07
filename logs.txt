@@ -37,3 +37,6 @@ Update daily for HeroPrinceK#8164
 
 07/02/2022 20:00:32  Crypted#2534  bot-commands  Computer Science Extension Year 9
 Lost their Daily Streak!
+
+07/02/2022 20:00:33  Crypted#2534  bot-commands  Computer Science Extension Year 9
+Displayed points leaderboard
