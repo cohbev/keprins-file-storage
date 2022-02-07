@@ -63,3 +63,7 @@ Began Hangman Game; word=discouragements
 
 07/02/2022 22:01:06  KNY08#2777  keprins-classroom  Official Year 9 GATE
 Succeeded in Hangman Game
+
+
+Give 20 points to KNY08
+Current Balance: 770
