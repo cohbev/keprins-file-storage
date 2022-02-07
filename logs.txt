@@ -21,3 +21,6 @@ Correct Trivia Question
 
 07/02/2022 19:31:52  AzureNinja#0465  computer-science  Computer Science Extension Year 9
 Tried to say gn; too early
+
+07/02/2022 20:00:03  HeroPrinceK#8164  bot-commands  Computer Science Extension Year 9
+Lost their Daily Streak!
