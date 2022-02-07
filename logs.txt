@@ -27,3 +27,7 @@ Lost their Daily Streak!
 
 07/02/2022 20:00:04  HeroPrinceK#8164  bot-commands  Computer Science Extension Year 9
 Daily: Reward=10, Streak=1
+
+
+Give 10 points to HeroPrinceK
+Current Balance: 3311
