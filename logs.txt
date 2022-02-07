@@ -60,3 +60,6 @@ Current Balance: 6732
 
 07/02/2022 21:58:00  KNY08#2777  keprins-classroom  Official Year 9 GATE
 Began Hangman Game; word=discouragements
+
+07/02/2022 22:01:06  KNY08#2777  keprins-classroom  Official Year 9 GATE
+Succeeded in Hangman Game
