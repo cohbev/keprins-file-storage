@@ -233,3 +233,7 @@ Lost their Daily Streak!
 
 08/02/2022 22:12:41  Crinzboy#3144  bot-commands-2  mastersneeza's Server
 Daily: Reward=10, Streak=1
+
+
+Give 10 points to Crinzboy
+Current Balance: 25
