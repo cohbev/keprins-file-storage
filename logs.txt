@@ -327,3 +327,7 @@ Changed game status to "keprins help"
 
 09/02/2022 06:57:07  Cohen#7245  bot-commands-2  mastersneeza's Server
 Daily: Reward=100, Streak=27
+
+
+Give 100 points to Cohen
+Current Balance: 6842
