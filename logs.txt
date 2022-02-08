@@ -117,3 +117,6 @@ Showed points status for user
 
 08/02/2022 18:08:45  Leonardo_Da#5187  keprins-classroom  Official Year 9 GATE
 Lost their Daily Streak!
+
+08/02/2022 18:08:46  Leonardo_Da#5187  keprins-classroom  Official Year 9 GATE
+Daily: Reward=10, Streak=1
