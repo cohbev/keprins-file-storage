@@ -174,3 +174,6 @@ Tried to say gn; too early
 
 08/02/2022 19:52:51  HeroPrinceK#8164  keprins-classroom  Official Year 9 GATE
 Displayed points leaderboard
+
+08/02/2022 19:53:28  HeroPrinceK#8164  keprins-classroom  Official Year 9 GATE
+Daily: Reward=20, Streak=2
