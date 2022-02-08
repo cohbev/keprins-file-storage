@@ -98,3 +98,6 @@ Changed game status to "keprins help"
 
 08/02/2022 12:53:55  Cohen#7245  keprins-classroom  Official Year 9 GATE
 joke requested
+
+08/02/2022 15:11:48  €N€M¥02#1150  keprins-car  Official Year 9 GATE
+Daily: Reward=100, Streak=17
