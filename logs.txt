@@ -193,3 +193,7 @@ Showed points status for user
 
 
 Said Goodnight
+
+
+Give 10 points to AzureNinja
+Current Balance: 45
