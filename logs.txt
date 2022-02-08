@@ -230,3 +230,6 @@ Changed game status to "keprins help"
 
 08/02/2022 22:12:39  Crinzboy#3144  bot-commands-2  mastersneeza's Server
 Lost their Daily Streak!
+
+08/02/2022 22:12:41  Crinzboy#3144  bot-commands-2  mastersneeza's Server
+Daily: Reward=10, Streak=1
