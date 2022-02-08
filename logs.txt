@@ -187,3 +187,6 @@ Update daily for HeroPrinceK#8164
 
 08/02/2022 19:53:32  HeroPrinceK#8164  keprins-classroom  Official Year 9 GATE
 Tried to say gn; too early
+
+08/02/2022 20:07:57  Emmet#4662  keprins-classroom  Official Year 9 GATE
+Showed points status for user
