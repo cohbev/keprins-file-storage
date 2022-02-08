@@ -105,3 +105,6 @@ Daily: Reward=100, Streak=17
 
 Give 100 points to €N€M¥02
 Current Balance: 6824
+
+
+Update daily for €N€M¥02#1150
