@@ -407,3 +407,6 @@ Attempted use of @mention in spam
 
 09/02/2022 18:16:41  €N€M¥02#1150  counting  Official Year 9 GATE
 Attempted use of @mention in spam
+
+09/02/2022 18:17:27  Crinzboy#3144  counting  Official Year 9 GATE
+Attempted use of spam  outside spam channel
