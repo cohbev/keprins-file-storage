@@ -346,3 +346,6 @@ Mr Keprins#9420 has logged in (back online)
 
 
 Changed game status to "keprins help"
+
+09/02/2022 16:29:19  Leonardo_Da#5187  keprins-classroom  Official Year 9 GATE
+Tried to say gn; too early
