@@ -375,3 +375,7 @@ Update daily for MegaDraconite#8424
 
 09/02/2022 17:21:44  Crinzboy#3144  bot-commands-2  mastersneeza's Server
 Daily: Reward=20, Streak=2
+
+
+Give 20 points to Crinzboy
+Current Balance: 45
