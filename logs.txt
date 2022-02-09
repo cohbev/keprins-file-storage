@@ -369,3 +369,6 @@ Daily: Reward=10, Streak=1
 
 Give 10 points to MegaDraconite
 Current Balance: 680
+
+
+Update daily for MegaDraconite#8424
