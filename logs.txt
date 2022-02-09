@@ -509,3 +509,7 @@ Attempted spam with invalid number
 
 
 Spammed the word "spam 30" 3 times
+
+
+Spammed the word ">>> **suggestion:**
+```mute the #spam channel```" 30 times
