@@ -413,3 +413,6 @@ Attempted use of spam  outside spam channel
 
 09/02/2022 18:17:41  Crinzboy#3144  spam  Official Year 9 GATE
 Attempted spam over maximum (100)
+
+
+Spammed the word "don’t spam" 100 times
