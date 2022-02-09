@@ -365,3 +365,7 @@ Lost their Daily Streak!
 
 09/02/2022 17:14:17  MegaDraconite#8424  bot-commands-2  mastersneeza's Server
 Daily: Reward=10, Streak=1
+
+
+Give 10 points to MegaDraconite
+Current Balance: 680
