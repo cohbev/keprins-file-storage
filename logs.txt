@@ -966,3 +966,7 @@ Changed game status to "keprins help"
 
 
 NarWhale#5184 said Good Morning
+
+
+Give 10 points to NarWhale
+Current Balance: 7019
