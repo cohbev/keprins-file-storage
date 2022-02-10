@@ -922,3 +922,6 @@ Update daily for AzureNinja#0465
 
 11/02/2022 07:15:14  AzureNinja#0465  computer-science  Computer Science Extension Year 9
 Displayed points leaderboard
+
+11/02/2022 07:15:22  AzureNinja#0465  computer-science  Computer Science Extension Year 9
+Tried to say gn; too early
