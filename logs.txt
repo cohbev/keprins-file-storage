@@ -677,3 +677,6 @@ Current Balance: 6967
 
 10/02/2022 15:35:56  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Correct True/False
+
+10/02/2022 15:35:58  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Send Trivia Question: How many countries border Kyrgyzstan?
