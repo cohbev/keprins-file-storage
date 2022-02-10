@@ -906,3 +906,6 @@ Displayed points leaderboard
 
 11/02/2022 07:14:51  AzureNinja#0465  computer-science  Computer Science Extension Year 9
 Displayed points leaderboard
+
+11/02/2022 07:15:06  AzureNinja#0465  computer-science  Computer Science Extension Year 9
+Lost their Daily Streak!
