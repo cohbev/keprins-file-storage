@@ -646,3 +646,6 @@ Gave up on trivia question
 
 10/02/2022 15:35:21  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Send Trivia Question: What was the cause of Marilyn Monroes suicide?
+
+10/02/2022 15:35:24  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Gave up on trivia question
