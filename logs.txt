@@ -693,3 +693,6 @@ Correct Trivia Question
 
 10/02/2022 15:36:07  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Send Trivia Question: Painter Piet Mondrian (1872 - 1944) was a part of what movement?
+
+10/02/2022 15:36:16  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Gave up on trivia question
