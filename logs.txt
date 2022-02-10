@@ -634,3 +634,6 @@ Displayed points leaderboard
 
 10/02/2022 15:35:10  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Send Trivia Question: Which former boy-band star released hit solo single "Angels" in 1997?
+
+10/02/2022 15:35:14  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Gave up on trivia question
