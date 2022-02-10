@@ -613,3 +613,6 @@ Showed points status for user
 
 
 Mr Keprins#9420 has logged in (back online)
+
+
+Changed game status to "keprins help"
