@@ -941,3 +941,6 @@ Mr Keprins#9420 has logged in (back online)
 
 
 Changed game status to "keprins help"
+
+11/02/2022 07:33:30  Cohen#7245  computer-science  Computer Science Extension Year 9
+Daily: Reward=100, Streak=29
