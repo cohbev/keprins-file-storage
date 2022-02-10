@@ -661,3 +661,6 @@ Send Trivia Question: Which animation studio animated "Psycho Pass"?
 
 10/02/2022 15:35:42  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Gave up on trivia question
+
+10/02/2022 15:35:45  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Send Trivia Question: Who designed the Chupa Chups logo?
