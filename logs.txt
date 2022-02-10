@@ -684,3 +684,6 @@ Send Trivia Question: How many countries border Kyrgyzstan?
 
 Give 25 points to Cohen
 Current Balance: 6992
+
+
++1 trivia point to Cohen
