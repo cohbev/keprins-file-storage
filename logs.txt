@@ -655,3 +655,6 @@ Send Trivia Question: Pink Floyd made this song for their previous lead singer S
 
 10/02/2022 15:35:29  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Gave up on trivia question
+
+10/02/2022 15:35:31  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Send Trivia Question: Which animation studio animated "Psycho Pass"?
