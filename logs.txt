@@ -995,3 +995,6 @@ Performed inviteme
 
 
 Mr Keprins#9420 has logged in (back online)
+
+
+Changed game status to "keprins help"
