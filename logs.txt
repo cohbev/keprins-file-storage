@@ -992,3 +992,6 @@ Changed game status to "keprins help"
 
 11/02/2022 07:40:33  Cohen#7245  events  Mr Keprins' Server
 Performed inviteme
+
+
+Mr Keprins#9420 has logged in (back online)
