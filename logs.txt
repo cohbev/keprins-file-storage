@@ -919,3 +919,6 @@ Current Balance: 65
 
 
 Update daily for AzureNinja#0465
+
+11/02/2022 07:15:14  AzureNinja#0465  computer-science  Computer Science Extension Year 9
+Displayed points leaderboard
