@@ -715,3 +715,6 @@ Current Balance: 7017
 
 10/02/2022 15:36:41  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Correct Trivia Question
+
+10/02/2022 15:36:46  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Displayed points leaderboard
