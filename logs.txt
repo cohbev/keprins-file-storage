@@ -709,3 +709,6 @@ Send Trivia Question: What is the longest river in Europe?
 
 Give 25 points to Cohen
 Current Balance: 7017
+
+
++1 trivia point to Cohen
