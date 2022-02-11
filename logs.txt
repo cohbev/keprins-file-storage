@@ -1042,3 +1042,6 @@ Changed game status to "keprins help"
 
 
 Removed overdue events (if they exist)
+
+
+Removed overdue events (if they exist)
