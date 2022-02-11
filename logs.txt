@@ -1007,3 +1007,12 @@ Changed game status to "keprins help"
 
 
 Add event: IP Address Calculator
+
+
+Due Date Added:
+name=IP Address Calculator
+date=25/02/2022
+time=23:30
+members=<@&915141515226009602>
+channel=914871929389846569
+
