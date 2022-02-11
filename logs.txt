@@ -1019,3 +1019,10 @@ channel=914871929389846569
 
 
 Add 735075661923745822 (XDPhantommelon560's server) to data
+
+11/02/2022 10:42:55  Cohen#7245  general  Official Year 9 GATE
+Sent Server Rate:
+Message Rate for Official Year 9 GATE
+messages per minute: 0.806
+messages per hour: 48.352
+messages per day: 1160.44
