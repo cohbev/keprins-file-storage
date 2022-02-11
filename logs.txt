@@ -1026,3 +1026,10 @@ Message Rate for Official Year 9 GATE
 messages per minute: 0.806
 messages per hour: 48.352
 messages per day: 1160.44
+
+11/02/2022 10:43:06  Cohen#7245  general  The Wincidents
+Sent Server Rate:
+Message Rate for The Wincidents
+messages per minute: 0.0
+messages per hour: 0.016
+messages per day: 0.378
