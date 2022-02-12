@@ -1081,3 +1081,6 @@ Daily: Reward=100, Streak=30
 
 Give 100 points to Cohen
 Current Balance: 7247
+
+
+Update daily for Cohen#7245
