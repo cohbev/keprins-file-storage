@@ -1146,3 +1146,6 @@ Send Trivia Question: In the National Pokedex what number is Porygon-Z?
 
 12/02/2022 11:55:58  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Gave up on trivia question
+
+12/02/2022 11:56:01  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Send Trivia Question: Who was the first Chancellor of a united Germany in 1871? 
