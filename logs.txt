@@ -1412,3 +1412,6 @@ Displayed points leaderboard
 
 12/02/2022 15:09:50  Everyting#7774  keprins-classroom  Official Year 9 GATE
 Sent keprins help
+
+12/02/2022 15:10:06  Everyting#7774  keprins-classroom  Official Year 9 GATE
+Showed points status for user
