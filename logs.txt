@@ -1403,3 +1403,6 @@ Waiting 101 seconds until This is a Keprins event!
 
 
 Mr Keprins#9420 has logged in (back online)
+
+
+Changed game status to "keprins help"
