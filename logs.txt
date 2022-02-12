@@ -1507,3 +1507,6 @@ Changed game status to "keprins help"
 
 12/02/2022 21:20:16  John Wick-Server Young brother#8740  keprins-classroom  Official Year 9 GATE
 Displayed xp leaderboard
+
+12/02/2022 21:20:26  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Displayed points leaderboard
