@@ -1479,3 +1479,6 @@ Mr Keprins#9420 has logged in (back online)
 
 
 Changed game status to "keprins help"
+
+12/02/2022 16:29:44  Jezzaussie2#4322  poket-mons  Official Year 9 GATE
+Showed memes status for user
