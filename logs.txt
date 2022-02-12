@@ -1510,3 +1510,6 @@ Displayed xp leaderboard
 
 12/02/2022 21:20:26  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Displayed points leaderboard
+
+12/02/2022 21:20:54  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Began Hangman Game; word=gathering
