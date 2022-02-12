@@ -1295,3 +1295,6 @@ Began Hangman Game; word=rabbinic
 
 12/02/2022 12:12:05  Cohen#7245  general  XDPhantommelon560's server
 Failed Hangman
+
+12/02/2022 12:12:22  €N€M¥02#1150  general  KNY08's server
+Beat Mr Keprins at o&x
