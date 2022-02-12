@@ -1125,3 +1125,6 @@ Succeeded in Hangman Game
 
 Give 20 points to Cohen
 Current Balance: 7267
+
+12/02/2022 11:55:31  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Gave up on trivia question
