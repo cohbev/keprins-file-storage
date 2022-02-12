@@ -1266,3 +1266,6 @@ Current Balance: 7313
 
 12/02/2022 12:07:43  Cohen#7245  general  XDPhantommelon560's server
 Showed points status for user
+
+12/02/2022 12:07:53  Cohen#7245  general  XDPhantommelon560's server
+Displayed points leaderboard
