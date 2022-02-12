@@ -1513,3 +1513,6 @@ Displayed points leaderboard
 
 12/02/2022 21:20:54  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Began Hangman Game; word=gathering
+
+12/02/2022 21:21:36  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Succeeded in Hangman Game
