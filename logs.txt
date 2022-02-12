@@ -1182,3 +1182,6 @@ Told user to "answer this question first"
 
 12/02/2022 11:58:36  €N€M¥02#1150  keprins-car  Official Year 9 GATE
 Gave up on trivia question
+
+12/02/2022 11:58:39  €N€M¥02#1150  keprins-car  Official Year 9 GATE
+Send Trivia Question: True or False: The Axolotl is an amphibian that can spend its whole life in a larval state.
