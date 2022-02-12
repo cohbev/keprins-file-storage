@@ -1176,3 +1176,6 @@ Cohen challenged €N€M¥02 to o&x (bet=30)
 
 12/02/2022 11:58:02  Cohen#7245  keprins-classroom  Official Year 9 GATE
 €N€M¥02 drew with Cohen at o&x
+
+12/02/2022 11:58:34  €N€M¥02#1150  keprins-car  Official Year 9 GATE
+Told user to "answer this question first"
