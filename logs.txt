@@ -1292,3 +1292,6 @@ Correct Trivia Question
 
 12/02/2022 12:11:06  Cohen#7245  general  XDPhantommelon560's server
 Began Hangman Game; word=rabbinic
+
+12/02/2022 12:12:05  Cohen#7245  general  XDPhantommelon560's server
+Failed Hangman
