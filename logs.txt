@@ -1305,3 +1305,7 @@ Current Balance: 7329
 
 
 Started guess10
+
+
+Give 9 points to Cohen
+Current Balance: 7301
