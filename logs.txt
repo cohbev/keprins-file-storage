@@ -1121,3 +1121,7 @@ Send Trivia Question: What is the Polish city known to Germans as Danzig?
 
 12/02/2022 11:55:21  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Succeeded in Hangman Game
+
+
+Give 20 points to Cohen
+Current Balance: 7267
