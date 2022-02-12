@@ -1134,3 +1134,6 @@ Send Trivia Question: At which bridge does the annual Oxford and Cambridge boat 
 
 12/02/2022 11:55:42  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Gave up on trivia question
+
+12/02/2022 11:55:46  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Send Trivia Question: What was the name of the inflatable duck sacrified to the crowd at the end of Episode 34 of the 18th season of Big Brother?
