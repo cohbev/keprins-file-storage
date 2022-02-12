@@ -1143,3 +1143,6 @@ Gave up on trivia question
 
 12/02/2022 11:55:52  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Send Trivia Question: In the National Pokedex what number is Porygon-Z?
+
+12/02/2022 11:55:58  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Gave up on trivia question
