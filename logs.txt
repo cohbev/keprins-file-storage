@@ -1077,3 +1077,7 @@ Changed game status to "keprins help"
 
 12/02/2022 11:52:50  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Daily: Reward=100, Streak=30
+
+
+Give 100 points to Cohen
+Current Balance: 7247
