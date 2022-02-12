@@ -1436,3 +1436,10 @@ Mr Keprins#9420 has logged in (back online)
 
 
 Changed game status to "keprins help"
+
+12/02/2022 15:49:28  Cohen#7245  general  XDPhantommelon560's server
+Sent Server Rate:
+Message Rate for XDPhantommelon560's server
+messages per minute: 0.412
+messages per hour: 24.738
+messages per day: 593.715
