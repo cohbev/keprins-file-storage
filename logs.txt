@@ -1283,3 +1283,6 @@ Send Trivia Question: How old was Muhammad Ali when he died?
 
 Give 25 points to Cohen
 Current Balance: 7292
+
+
++1 trivia point to Cohen
