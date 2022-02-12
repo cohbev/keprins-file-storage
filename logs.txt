@@ -1608,3 +1608,6 @@ Current Balance: 210
 
 
 Update daily for Crypted#2534
+
+12/02/2022 21:58:08  Everyting#7774  servers  9s server
+Displayed points leaderboard
