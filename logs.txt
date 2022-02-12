@@ -1315,3 +1315,6 @@ Guessed Number
 
 12/02/2022 12:14:07  Cohen#7245  general  XDPhantommelon560's server
 Showed xp status for user
+
+12/02/2022 12:14:12  Cohen#7245  general  XDPhantommelon560's server
+Displayed xp leaderboard
