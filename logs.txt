@@ -1406,3 +1406,6 @@ Mr Keprins#9420 has logged in (back online)
 
 
 Changed game status to "keprins help"
+
+12/02/2022 12:59:10  €N€M¥02#1150  keprins-car  Official Year 9 GATE
+Displayed points leaderboard
