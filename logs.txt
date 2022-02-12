@@ -1482,3 +1482,6 @@ Changed game status to "keprins help"
 
 12/02/2022 16:29:44  Jezzaussie2#4322  poket-mons  Official Year 9 GATE
 Showed memes status for user
+
+12/02/2022 17:49:25  John Wick-Server Young brother#8740  keprins-classroom  Official Year 9 GATE
+Displayed xp leaderboard
