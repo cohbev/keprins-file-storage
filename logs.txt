@@ -1388,3 +1388,12 @@ Told the time
 
 
 Add event: This is a Keprins event!
+
+
+Event Added:
+name=This is a Keprins event!
+date=12/02/2022
+time=12:25
+members=everyone
+channel=735075661923745828
+
