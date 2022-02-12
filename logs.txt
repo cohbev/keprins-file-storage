@@ -1312,3 +1312,6 @@ Current Balance: 7301
 
 12/02/2022 12:13:29  Cohen#7245  general  XDPhantommelon560's server
 Guessed Number
+
+12/02/2022 12:14:07  Cohen#7245  general  XDPhantommelon560's server
+Showed xp status for user
