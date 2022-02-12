@@ -1397,3 +1397,6 @@ time=12:25
 members=everyone
 channel=735075661923745828
 
+
+
+Waiting 101 seconds until This is a Keprins event!
