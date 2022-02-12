@@ -1128,3 +1128,6 @@ Current Balance: 7267
 
 12/02/2022 11:55:31  Cohen#7245  keprins-classroom  Official Year 9 GATE
 Gave up on trivia question
+
+12/02/2022 11:55:34  Cohen#7245  keprins-classroom  Official Year 9 GATE
+Send Trivia Question: At which bridge does the annual Oxford and Cambridge boat race start?
