@@ -1683,3 +1683,6 @@ Send Trivia Question: Better known by his nickname Logan, what is Wolverine's bi
 
 13/02/2022 18:46:21  Cohen#7245  🧔🏽-keprins-kingdom-🚗  9s server
 Gave up on trivia question
+
+13/02/2022 18:46:24  Cohen#7245  🧔🏽-keprins-kingdom-🚗  9s server
+Send Trivia Question: True or False: In "Star Trek: The Next Generation", Data is the only android in existence.
