@@ -1662,3 +1662,6 @@ Displayed points leaderboard
 
 13/02/2022 18:38:53  Cohen#7245  servers  9s server
 Send Trivia Question: What is not a default game mode in Counter-Strike (2000)?
+
+13/02/2022 18:38:58  Cohen#7245  servers  9s server
+Gave up on trivia question
