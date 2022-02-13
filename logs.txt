@@ -1677,3 +1677,6 @@ Send Trivia Question: What genre of EDM is the Dutch DJ, musician, and remixer A
 
 13/02/2022 18:39:17  Cohen#7245  servers  9s server
 Gave up on trivia question
+
+13/02/2022 18:46:09  Cohen#7245  🧔🏽-keprins-kingdom-🚗  9s server
+Send Trivia Question: Better known by his nickname Logan, what is Wolverine's birth name?
