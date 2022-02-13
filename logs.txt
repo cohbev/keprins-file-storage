@@ -1808,3 +1808,10 @@ Listed Servers
 
 13/02/2022 22:51:40  Cohen#7245  commands-test  Mr Keprins' Server
 Performed inviteme
+
+13/02/2022 22:53:14  Cohen#7245  general  KNY08's server
+Sent Server Rate:
+Message Rate for KNY08's server
+messages per minute: 0.023
+messages per hour: 1.358
+messages per day: 32.593
