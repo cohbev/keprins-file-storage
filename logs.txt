@@ -1730,3 +1730,6 @@ Gave up on trivia question
 
 13/02/2022 18:48:48  Master Oogway#4461  🧔🏽-keprins-kingdom-🚗  9s server
 Send Trivia Question: What is the code name for the mobile operating system Android 7.0?
+
+13/02/2022 18:48:58  Master Oogway#4461  🧔🏽-keprins-kingdom-🚗  9s server
+Gave up on trivia question
