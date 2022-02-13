@@ -1761,3 +1761,7 @@ Gave up on trivia question
 
 13/02/2022 18:50:13  Master Oogway#4461  🧔🏽-keprins-kingdom-🚗  9s server
 Send Trivia Question: True or False: The ghosts in "Pac-Man" and "Ms. Pac-Man" have completely different behavior.
+
+
+Give 5 points to Master Oogway
+Current Balance: 30
