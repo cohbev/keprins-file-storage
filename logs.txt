@@ -1783,3 +1783,7 @@ Changed game status to "keprins help"
 
 
 Said Goodnight
+
+
+Give 10 points to Cohen
+Current Balance: 7451
