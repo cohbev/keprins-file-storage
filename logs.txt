@@ -1815,3 +1815,6 @@ Message Rate for KNY08's server
 messages per minute: 0.023
 messages per hour: 1.358
 messages per day: 32.593
+
+
+Removed overdue events (if they exist)
