@@ -1721,3 +1721,6 @@ Send Trivia Question: "Strangereal" is a fictitious Earth-like world for which g
 
 13/02/2022 18:48:21  Master Oogway#4461  🧔🏽-keprins-kingdom-🚗  9s server
 Gave up on trivia question
+
+13/02/2022 18:48:28  Master Oogway#4461  🧔🏽-keprins-kingdom-🚗  9s server
+Send Trivia Question: Who was the first prime minister of Canada?
