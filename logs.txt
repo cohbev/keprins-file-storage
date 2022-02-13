@@ -1752,3 +1752,6 @@ Current Balance: 25
 
 13/02/2022 18:49:39  Master Oogway#4461  🧔🏽-keprins-kingdom-🚗  9s server
 Correct Trivia Question
+
+13/02/2022 18:49:45  Master Oogway#4461  🧔🏽-keprins-kingdom-🚗  9s server
+Send Trivia Question: "Stadium of Light" is the home stadium for which soccer team?
