@@ -1799,3 +1799,6 @@ Mr Keprins#9420 has logged in (back online)
 
 
 Changed game status to "keprins help"
+
+
+removed a server: ['735075661923745822']
