@@ -1659,3 +1659,6 @@ Changed game status to "keprins help"
 
 13/02/2022 18:38:48  Cohen#7245  servers  9s server
 Displayed points leaderboard
+
+13/02/2022 18:38:53  Cohen#7245  servers  9s server
+Send Trivia Question: What is not a default game mode in Counter-Strike (2000)?
