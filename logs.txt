@@ -1739,3 +1739,6 @@ Send Trivia Question: Which song in Drake's "Views" features Future?
 
 13/02/2022 18:49:18  Master Oogway#4461  🧔🏽-keprins-kingdom-🚗  9s server
 Gave up on trivia question
+
+13/02/2022 18:49:29  Master Oogway#4461  🧔🏽-keprins-kingdom-🚗  9s server
+Send Trivia Question: Rolex is a company that specializes in what type of product?
