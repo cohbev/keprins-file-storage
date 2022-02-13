@@ -1802,3 +1802,6 @@ Changed game status to "keprins help"
 
 
 removed a server: ['735075661923745822']
+
+13/02/2022 22:50:52  Cohen#7245  commands-test  Mr Keprins' Server
+Listed Servers
