@@ -1656,3 +1656,6 @@ Mr Keprins#9420 has logged in (back online)
 
 
 Changed game status to "keprins help"
+
+13/02/2022 18:38:48  Cohen#7245  servers  9s server
+Displayed points leaderboard
