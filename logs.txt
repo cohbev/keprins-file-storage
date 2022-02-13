@@ -1706,3 +1706,6 @@ Correct True/False
 
 13/02/2022 18:46:46  Cohen#7245  🧔🏽-keprins-kingdom-🚗  9s server
 Send Trivia Question: In Hitman: Blood Money, what is the name of the target in the mission "Death of a Showman"?
+
+13/02/2022 18:46:51  Cohen#7245  🧔🏽-keprins-kingdom-🚗  9s server
+Gave up on trivia question
