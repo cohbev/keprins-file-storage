@@ -1768,3 +1768,6 @@ Current Balance: 30
 
 13/02/2022 18:50:22  Master Oogway#4461  🧔🏽-keprins-kingdom-🚗  9s server
 Correct True/False
+
+13/02/2022 18:50:40  Cohen#7245  🧔🏽-keprins-kingdom-🚗  9s server
+Displayed points leaderboard
