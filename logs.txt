@@ -1680,3 +1680,6 @@ Gave up on trivia question
 
 13/02/2022 18:46:09  Cohen#7245  🧔🏽-keprins-kingdom-🚗  9s server
 Send Trivia Question: Better known by his nickname Logan, what is Wolverine's birth name?
+
+13/02/2022 18:46:21  Cohen#7245  🧔🏽-keprins-kingdom-🚗  9s server
+Gave up on trivia question
