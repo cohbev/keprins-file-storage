@@ -9,3 +9,4 @@ Christmas Eve,,937145620970504232,24/12/2022,00:00,everyone,event
 Australia Day,,937145620970504232,26/01/2023,00:00,everyone,event
 Labour Day,,937145620970504232,07/03/2022,00:00,everyone,event
 Good Friday,,937145620970504232,15/04/2022,00:00,everyone,event
+Easter Sunday,,937145620970504232,17/04/2022,00:00,everyone,event
