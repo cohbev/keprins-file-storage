@@ -4,3 +4,4 @@ April Fools,,937145620970504232,01/04/2022,00:00,everyone,event
 Christmas Day,,937145620970504232,25/12/2022,00:00,everyone,event
 New Year's Eve,,937145620970504232,31/12/2022,00:00,everyone,event
 New Year's Day,,937145620970504232,01/01/2023,00:00,everyone,event
+ANZAC Day,,937145620970504232,25/04/2022,00:00,everyone,event
