@@ -11,3 +11,4 @@ Labour Day,,937145620970504232,07/03/2022,00:00,everyone,event
 Good Friday,,937145620970504232,15/04/2022,00:00,everyone,event
 Easter Sunday,,937145620970504232,17/04/2022,00:00,everyone,event
 Western Australia Day,,937145620970504232,06/06/2022,00:00,everyone,event
+Queen's Birthday,,937145620970504232,26/09/2022,00:00,everyone,event
